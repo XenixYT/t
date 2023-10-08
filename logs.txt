@@ -1,0 +1,288 @@
+
+
+[10/2/2023, 5:28:29 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v20.5.0
+Bot Version: 1.5.0
+
+[10/2/2023, 5:28:34 PM] [READY] Bot is now ready!
+
+[10/2/2023, 5:29:39 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v20.5.0
+Bot Version: 1.5.0
+
+[10/2/2023, 5:29:41 PM] [READY] Bot is now ready!
+
+[10/2/2023, 5:30:28 PM] [SLASH COMMAND] Command: panel, User: .xenix1
+
+[10/2/2023, 5:30:29 PM] [unhandledRejection] [v1.5.0]
+DiscordAPIError[50035]: Invalid Form Body
+components[0].components[0].options[0].emoji.id[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+    at handleErrors (C:\Users\RealP\Downloads\dan\BOTS\xenix\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\RealP\Downloads\dan\BOTS\xenix\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\RealP\Downloads\dan\BOTS\xenix\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\RealP\Downloads\dan\BOTS\xenix\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async TextChannel.send (C:\Users\RealP\Downloads\dan\BOTS\xenix\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:162:15)
+
+[10/2/2023, 5:30:48 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v20.5.0
+Bot Version: 1.5.0
+
+[10/2/2023, 5:30:50 PM] [READY] Bot is now ready!
+
+[10/2/2023, 5:30:55 PM] [SLASH COMMAND] Command: panel, User: .xenix1
+
+[10/2/2023, 5:30:57 PM] [unhandledRejection] [v1.5.0]
+DiscordAPIError[50035]: Invalid Form Body
+components[0].components[0].options[0].emoji.id[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+    at handleErrors (C:\Users\RealP\Downloads\dan\BOTS\xenix\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\RealP\Downloads\dan\BOTS\xenix\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\RealP\Downloads\dan\BOTS\xenix\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\RealP\Downloads\dan\BOTS\xenix\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async TextChannel.send (C:\Users\RealP\Downloads\dan\BOTS\xenix\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:162:15)
+
+[10/2/2023, 5:32:37 PM] [SLASH COMMAND] Command: panel, User: .xenix1
+
+[10/2/2023, 5:32:37 PM] [unhandledRejection] [v1.5.0]
+DiscordAPIError[50035]: Invalid Form Body
+components[0].components[0].options[0].emoji.id[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+    at handleErrors (C:\Users\RealP\Downloads\dan\BOTS\xenix\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\RealP\Downloads\dan\BOTS\xenix\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\RealP\Downloads\dan\BOTS\xenix\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\RealP\Downloads\dan\BOTS\xenix\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async TextChannel.send (C:\Users\RealP\Downloads\dan\BOTS\xenix\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:162:15)
+
+[10/2/2023, 5:33:19 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v20.5.0
+Bot Version: 1.5.0
+
+[10/2/2023, 5:33:21 PM] [READY] Bot is now ready!
+
+[10/2/2023, 5:33:27 PM] [SLASH COMMAND] Command: panel, User: .xenix1
+
+[10/2/2023, 5:33:27 PM] [unhandledRejection] [v1.5.0]
+DiscordAPIError[50035]: Invalid Form Body
+components[0].components[0].options[0].emoji.id[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+    at handleErrors (C:\Users\RealP\Downloads\dan\BOTS\xenix\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\RealP\Downloads\dan\BOTS\xenix\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\RealP\Downloads\dan\BOTS\xenix\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\RealP\Downloads\dan\BOTS\xenix\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async TextChannel.send (C:\Users\RealP\Downloads\dan\BOTS\xenix\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:162:15)
+
+[10/2/2023, 5:34:14 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v20.5.0
+Bot Version: 1.5.0
+
+[10/2/2023, 5:34:18 PM] [READY] Bot is now ready!
+
+[10/2/2023, 5:34:20 PM] [SLASH COMMAND] Command: panel, User: .xenix1
+
+[10/2/2023, 5:34:20 PM] [unhandledRejection] [v1.5.0]
+DiscordAPIError[50035]: Invalid Form Body
+components[0].components[0].options[0].emoji.id[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+    at handleErrors (C:\Users\RealP\Downloads\dan\BOTS\xenix\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\RealP\Downloads\dan\BOTS\xenix\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\RealP\Downloads\dan\BOTS\xenix\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\RealP\Downloads\dan\BOTS\xenix\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async TextChannel.send (C:\Users\RealP\Downloads\dan\BOTS\xenix\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:162:15)
+
+[10/2/2023, 5:35:01 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v20.5.0
+Bot Version: 1.5.0
+
+[10/2/2023, 5:35:04 PM] [READY] Bot is now ready!
+
+[10/2/2023, 5:35:07 PM] [SLASH COMMAND] Command: panel, User: .xenix1
+
+[10/2/2023, 5:35:07 PM] [unhandledRejection] [v1.5.0]
+DiscordAPIError[50035]: Invalid Form Body
+components[0].components[0].options[0].emoji.id[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+    at handleErrors (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async TextChannel.send (C:\Users\RealP\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:162:15)
+
+[10/2/2023, 5:36:06 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v20.5.0
+Bot Version: 1.5.0
+
+[10/2/2023, 5:36:08 PM] [READY] Bot is now ready!
+
+[10/2/2023, 5:36:10 PM] [SLASH COMMAND] Command: panel, User: .xenix1
+
+[10/2/2023, 5:36:11 PM] [unhandledRejection] [v1.5.0]
+DiscordAPIError[50035]: Invalid Form Body
+components[0].components[0].options[0].emoji.id[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+    at handleErrors (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async TextChannel.send (C:\Users\RealP\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:162:15)
+
+[10/2/2023, 5:37:30 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v20.5.0
+Bot Version: 1.5.0
+
+[10/2/2023, 5:37:33 PM] [READY] Bot is now ready!
+
+[10/2/2023, 5:37:37 PM] [SLASH COMMAND] Command: panel, User: .xenix1
+
+[10/2/2023, 5:37:38 PM] [unhandledRejection] [v1.5.0]
+DiscordAPIError[50035]: Invalid Form Body
+components[0].components[0].options[0].emoji.id[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+    at handleErrors (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async TextChannel.send (C:\Users\RealP\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:162:15)
+
+[10/2/2023, 5:40:15 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v20.5.0
+Bot Version: 1.5.0
+
+[10/2/2023, 5:40:18 PM] [READY] Bot is now ready!
+
+[10/2/2023, 5:40:30 PM] [SLASH COMMAND] Command: panel, User: .xenix1
+
+[10/2/2023, 5:40:31 PM] [unhandledRejection] [v1.5.0]
+DiscordAPIError[50035]: Invalid Form Body
+components[0].components[0].options[0].emoji.id[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+    at handleErrors (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async TextChannel.send (C:\Users\RealP\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:162:15)
+
+[10/2/2023, 5:40:47 PM] [SLASH COMMAND] Command: panel, User: .xenix1
+
+[10/2/2023, 5:40:48 PM] [unhandledRejection] [v1.5.0]
+DiscordAPIError[50035]: Invalid Form Body
+components[0].components[0].options[0].emoji.id[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+    at handleErrors (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async TextChannel.send (C:\Users\RealP\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:162:15)
+
+[10/2/2023, 5:41:36 PM] [SLASH COMMAND] Command: panel, User: .xenix1
+
+[10/2/2023, 5:41:36 PM] [unhandledRejection] [v1.5.0]
+DiscordAPIError[50035]: Invalid Form Body
+components[0].components[0].options[0].emoji.id[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+    at handleErrors (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async TextChannel.send (C:\Users\RealP\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:162:15)
+
+[10/2/2023, 5:43:07 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v20.5.0
+Bot Version: 1.5.0
+
+[10/2/2023, 5:43:09 PM] [READY] Bot is now ready!
+
+[10/2/2023, 5:43:11 PM] [SLASH COMMAND] Command: panel, User: .xenix1
+
+[10/2/2023, 5:43:11 PM] [unhandledRejection] [v1.5.0]
+DiscordAPIError[50035]: Invalid Form Body
+components[0].components[0].options[0].emoji.id[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+    at handleErrors (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\RealP\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async TextChannel.send (C:\Users\RealP\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:162:15)
+
+[10/2/2023, 5:45:00 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v20.5.0
+Bot Version: 1.5.0
+
+[10/2/2023, 5:45:02 PM] [READY] Bot is now ready!
+
+[10/2/2023, 5:45:04 PM] [SLASH COMMAND] Command: panel, User: .xenix1
+
+[10/3/2023, 6:28:02 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v20.5.0
+Bot Version: 1.5.0
+
+[10/3/2023, 6:28:08 PM] [READY] Bot is now ready!
+
+[10/3/2023, 6:28:28 PM] [TICKET CREATION] Button: TicketButton1, User: soldier_tools
+
+[10/3/2023, 6:30:57 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v20.5.0
+Bot Version: 1.5.0
+
+[10/3/2023, 6:30:59 PM] [READY] Bot is now ready!
+
+[10/3/2023, 6:31:11 PM] [SLASH COMMAND] Command: panel, User: .xenix1
+
+[10/3/2023, 6:31:42 PM] [TICKET CLOSED] A ticket has been successfully closed, Close Confirmation: true
+
+[10/3/2023, 6:31:56 PM] [TICKET CREATION] Button: TicketButton6, User: soldier_tools
+
+[10/3/2023, 6:32:23 PM] [TICKET CLAIM] User: soldier_tools
+
+[10/3/2023, 6:39:11 PM] [SLASH COMMAND] Command: add, User: .xenix1
+
+[10/3/2023, 6:51:58 PM] [TICKET CLOSED] A ticket has been successfully closed, Close Confirmation: true
+
+[10/4/2023, 3:19:03 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v20.5.0
+Bot Version: 1.5.0
+
+[10/4/2023, 3:19:09 PM] [READY] Bot is now ready!
+
+[10/4/2023, 8:41:28 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v20.5.0
+Bot Version: 1.5.0
+
+[10/4/2023, 8:41:32 PM] [READY] Bot is now ready!
+
+[10/8/2023, 4:34:50 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v20.5.0
+Bot Version: 1.5.0
+
+[10/8/2023, 4:35:01 PM] [CONFIG ERROR(S)] 
+TicketSettings.LogsChannelID is not a valid channel!
+
+[10/8/2023, 4:35:01 PM] [READY] Bot is now ready!
+
+[10/8/2023, 4:43:33 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v20.5.0
+Bot Version: 1.5.0
+
+[10/8/2023, 4:43:43 PM] [READY] Bot is now ready!
+
+[10/8/2023, 4:43:59 PM] [SLASH COMMAND] Command: panel, User: .xenix1
+
+[10/8/2023, 4:46:50 PM] [SLASH COMMAND] Command: panel, User: .xenix1
+
+[10/8/2023, 4:47:26 PM] [TICKET CREATION] Button: TicketButton3, User: ziotic._
+
+[10/8/2023, 4:51:13 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v20.5.0
+Bot Version: 1.5.0
+
+[10/8/2023, 4:51:16 PM] [READY] Bot is now ready!
+
+[10/8/2023, 4:51:32 PM] [SLASH COMMAND] Command: panel, User: .xenix1
+
+[10/8/2023, 4:51:59 PM] [STARTING] Attempting to start the bot..
+NodeJS Version: v20.5.0
+Bot Version: 1.5.0
+
+[10/8/2023, 4:52:02 PM] [READY] Bot is now ready!
+
+[10/8/2023, 4:52:06 PM] [SLASH COMMAND] Command: panel, User: .xenix1
